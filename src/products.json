@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Google Tee Black",
+    "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
+    "image_tag": "image(1).jpg",
+    "owner": "Google",
+    "price": 300
+  },
+  {
+    "id": 2,
+    "title": "Cool Tshirts",
+    "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
+    "image_tag": "image(1).jpg",
+    "owner": "Google",
+    "price": 300
+  },
+  {
+    "id": 3,
+    "title": "Baggy tshirts",
+    "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
+    "image_tag": "image(1).jpg",
+    "owner": "Google",
+    "price": 300
+  },
+  {
+    "id": 4,
+    "title": "Google Tee Black",
+    "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
+    "image_tag": "image(1).jpg",
+    "owner": "Google",
+    "price": 300
+  },
+  {
+    "id": 5,
+    "title": "Google Tee Black",
+    "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
+    "image_tag": "image(1).jpg",
+    "owner": "Google",
+    "price": 300
+  },
+  {
+    "id": 6,
+    "title": "Google Tee Black",
+    "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
+    "image_tag": "image(1).jpg",
+    "owner": "Google",
+    "price": 300
+  },
+  {
+    "id": 7,
+    "title": "Google Tee Black",
+    "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
+    "image_tag": "image(1).jpg",
+    "owner": "Google",
+    "price": 300
+  },
+  {
+    "id": 8,
+    "title": "Google Tee Black",
+    "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
+    "image_tag": "image(1).jpg",
+    "owner": "Google",
+    "price": 300
+  },
+  {
+    "id": 9,
+    "title": "Google Tee Black",
+    "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
+    "image_tag": "image(1).jpg",
+    "owner": "Google",
+    "price": 300
+  },
+  {
+    "id": 10,
+    "title": "Google Tee Black",
+    "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
+    "image_tag": "image(1).jpg",
+    "owner": "Google",
+    "price": 300
+  }
+]
